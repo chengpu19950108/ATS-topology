@@ -1,0 +1,62 @@
+$
+$ Extra Data for DYNA KEYWORD from C:/Users/Cheng/Desktop/1.05-0.95-1-r0.35-base5/original.k using F:\hypermesh\install\io\model_readers\feinput\bin\win64\dynakey.exe.
+$ File Input to HyperMesh on 03-03-2020 12:32:33.
+$
+$$ File: C:/Users/Cheng/Desktop/1.05-0.95-1-r0.35-base5/original.k, Line: 2104 -- Title card doesn't have the group ID.
+$# title
+$#     osu       inn    pidosu
+$#      q1        q2      type     btype
+$#  slsfac    rwpnal    islchk    shlthk    penopt    thkchg     orien    enmass
+$#  usrstr    usrfrc     nsbcs    interm     xpene     ssthk      ecdt   tiedprj
+$#   sfric     dfric       edc       vfc        th     th_sf    pen_sf
+$#  ignore    frceng   skiprwg    outseg   spotstp   spotdel   spothin
+$#    isym    nserod    rwgaps    rwgdth     rwksf      icov    swradf    ithoff
+$#  shledg    pstiff    ithcnt    tdcnof     ftall    unused    shltrw
+$#  cputim
+$#  nrcyck     drtol    drfctr    drterm    tssfdr    irelal     edttl    idrflg
+$#    hgen      rwen    slnten     rylen
+$#     ihq        qh
+$#   npopt    neecho    nrefup    iaccop     opifs    ipnint    ikedit    iflush
+$#   iprtf    ierode     tet10    msgmax    ipcurv
+$#    ncpu    numrhs     const      para
+$#  wrpang     esort     irnxx    istupd    theory       bwc     miter      proj
+$# rotascl    intgrd    lamsht    cstyp6    tshell
+$# psstupd   sidt4tu     cntco    itsflg    irquad
+$#  nfail1    nfail4   psnfail    keepcs     delfr   drcpsid    drcprm
+$#  endtim    endcyc     dtmin    endeng    endmas
+$#  dtinit    tssfac      isdo    tslimt     dt2ms      lctm     erode     ms1st
+$#  dt2msf   dt2mslc     imscl    unused    unused     rmscl
+$#      dt    binary      lcur     ioopt   option1   option2   option3   option4
+$#      dt    binary      lcur     ioopt
+$#      dt    binary      lcur     ioopt
+$#      dt    binary      lcur     ioopt   option1   option2
+$#      dt      lcdt      beam     npltc    psetid
+$#      dt      lcdt      beam     npltc    psetid
+$#   ioopt
+$#      dt      lcdt      beam     npltc    psetid
+$#      dt      lcdt      beam     npltc    psetid
+$#      dt        nr      beam     npltc    psetid
+$#      dt      lcdt      beam     npltc    psetid
+$#   vtype      comp
+$#   neiph     neips    maxint    strflg    sigflg    epsflg    rltflg    engflg
+$#  cmpflg    ieverp    beamip     dcomp      shge     stssz    n3thdt   ialemat
+$# nintsld   pkp_sen      sclp    unused     msscl     therm    intout    nodout
+$#    dtdt    resplt
+$#     id1       id2       id3       id4       id5       id6       id7       id8
+$#     id1       id2       id3       id4       id5       id6       id7       id8
+$#     pid       dof       vad      lcid        sf       vid     death     birth
+$#     pid       dof       vad      lcid        sf       vid     death     birth
+$#     pid       dof       vad      lcid        sf       vid     death     birth
+$#     pid       dof       vad      lcid        sf       vid     death     birth
+$#     pid       dof       vad      lcid        sf       vid     death     birth
+$#     pid       dof       vad      lcid        sf       vid     death     birth
+$#     pid       dof       vad      lcid        sf       vid     death     birth
+$#     nid       dof      lcid        sf       cid        m1        m2        m3
+$#     cid                                                                 title
+*CONTACT_2D_AUTOMATIC_SINGLE_SURFACE_ID
+         01All to all
+$#    sids      sidm     sfact      freq        fs        fd        dc     membs
+         0        17  0.500000         0  0.200000     0.000     0.000         0
+$#  tbirth    tdeath       sos       som       nds       ndm       cof      init
+     0.000     0.000     0.000     0.000         0         0         1         0
+

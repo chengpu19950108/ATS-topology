@@ -1,0 +1,1 @@
+[nid,xcor,ycor,zcor]=textread('3D_FORCE.K','%n%f%f%f',20,'headerlines',119);%以'%n%f%f%f'格式读取20次，从119行以后开始
