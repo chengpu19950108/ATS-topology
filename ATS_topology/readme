@@ -1,5 +1,3 @@
 Run the file <main.m> in matlab, then  select the file <2D_FORCE.k> as the input file.
 
-ATTENTION: Ls-dyna (A solver of finite element method) is needed for this program, and this software is installed in:
-           'F:\ls-dyna\program\ls-dyna_smp_s_R700_winx64_ifort101.exe'. If yours is installed in other path, then the
-           code in line 60 of '+lsdyna\simulation.m' should be accordingly changed.
+ATTENTION: Ls-dyna (A solver of finite element method) is needed for this program, and this software is installed in 'F:\ls-dyna\program\ls-dyna_smp_s_R700_winx64_ifort101.exe'. If yours is installed in other path, then the code in line 60 of '+lsdyna\simulation.m' should be accordingly changed.
