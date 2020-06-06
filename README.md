@@ -11,4 +11,4 @@ Software needed:
 
 Attention 1: The ATS-topology is used for the optimization of connection joints, the two parts of the joints are numbered as 1 and 2. The codes illustrated here can only be used for this example here. When applicated in other examples, the FE model and some parameters here should be corrected according to the theory.
 
-Attention 2: in this example, two completely overlapping grids are used to construct parts 1 and 2, which is to facilitate the updating of design variables, and ensure the reasonable grid consecutivenessand edge conditions.
+Attention 2: in this example, two completely overlapping grids are used to construct parts 1 and 2, which is to facilitate the updating of design variables, and ensure the reasonable grid consecutiveness and edge conditions.
